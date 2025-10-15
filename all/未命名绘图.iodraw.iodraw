@@ -47,7 +47,7 @@
           <mxGeometry x="1101" y="724" width="258" height="101" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-15" value="免疫微环境特征库&#xa;（不同病理分级的免疫细胞浸润模式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="789" y="884" width="252" height="84" as="geometry" />
+          <mxGeometry x="930" y="870" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段3：数据分析与机制挖掘&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1540" y="456" width="244" height="84" as="geometry" />
