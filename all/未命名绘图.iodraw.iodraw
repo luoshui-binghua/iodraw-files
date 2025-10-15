@@ -122,16 +122,12 @@
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-10" target="t1HVQ_81Bl9Hr75zzs3f-12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="925" y="699" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-9" target="t1HVQ_81Bl9Hr75zzs3f-13">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1230" y="565" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-13" target="t1HVQ_81Bl9Hr75zzs3f-14">
