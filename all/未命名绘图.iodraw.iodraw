@@ -10,7 +10,7 @@
         <mxCell id="XQcMeM8D1UEo72Zbpzga-9" value="免疫新辅助组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258" y="69" width="214" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XQcMeM8D1UEo72Zbpzga-10" value="直接手术组：n=100" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XQcMeM8D1UEo72Zbpzga-10" value="直接手术组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="266" y="217" width="198" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XQcMeM8D1UEo72Zbpzga-11" value="治疗前活检" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
