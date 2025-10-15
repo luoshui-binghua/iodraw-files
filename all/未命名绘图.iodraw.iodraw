@@ -49,17 +49,11 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-15" value="免疫微环境特征库&#xa;（不同病理分级的免疫细胞浸润模式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="789" y="884" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-18" value="外显子组测序&#xa;（Illumina NovaSeq 6000，测序深度≥100×）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1542" y="733" width="232" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-19" value="测序数据质控&#xa;（FastQC过滤低质量 reads，BWA比对率≥95%）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1113" y="920" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-20" value="基因突变谱分析&#xa;（驱动基因：EGFR/KRAS/ALK等；TMB计算）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1559" y="884" width="255" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-22" value="单细胞数据解析&#xa;（细胞聚类、差异基因表达、免疫细胞亚型鉴定）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1864" y="884" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-23" value="单细胞分子图谱&#xa;（不同病理分级的细胞异质性特征）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1114" y="1026" width="252" height="84" as="geometry" />
@@ -187,18 +181,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=1;entryY=0.15;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-18" target="t1HVQ_81Bl9Hr75zzs3f-19">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=1;entryY=0.15;rounded=0;" edge="1" parent="1" target="t1HVQ_81Bl9Hr75zzs3f-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1527" y="850" />
             </Array>
+            <mxPoint x="1584.61224489796" y="817" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-22" target="t1HVQ_81Bl9Hr75zzs3f-23">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" target="t1HVQ_81Bl9Hr75zzs3f-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1990" y="1001" />
             </Array>
+            <mxPoint x="1990.0000000000005" y="967.9999999999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-25" target="t1HVQ_81Bl9Hr75zzs3f-26">
