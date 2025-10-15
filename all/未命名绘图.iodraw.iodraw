@@ -59,13 +59,10 @@
           <mxGeometry x="2257" y="1160" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-30" value="统计学分析&#xa;1. 生存分析（Kaplan-Meier+Log-rank检验，Cox回归）&#xa;2. 相关性分析（病理分级与免疫指标/TMB的Spearman相关）&#xa;3. 亚组分析（不同分期/PD-L1表达亚组的分级预后价值）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1747" y="1044" width="333" height="106" as="geometry" />
+          <mxGeometry x="1170" y="910" width="333" height="106" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-31" value="统计分析报告&#xa;（新分级的独立预后价值验证）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1633" y="1160" width="252" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-35" value="内部验证&#xa;（C-index/AUC评估，校准曲线验证）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2562" y="1160" width="248" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-1" target="t1HVQ_81Bl9Hr75zzs3f-2">
           <mxGeometry relative="1" as="geometry">
@@ -192,18 +189,20 @@
             <mxPoint x="1113" y="946.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-30" target="t1HVQ_81Bl9Hr75zzs3f-35">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2402" y="1135" />
             </Array>
+            <mxPoint x="2562" y="1172.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-35">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2686" y="1269" />
             </Array>
+            <mxPoint x="2686" y="1244" as="sourcePoint" />
             <mxPoint x="2781" y="1298.1999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
