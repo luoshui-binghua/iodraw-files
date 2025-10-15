@@ -49,7 +49,7 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-15" value="免疫微环境特征库&#xa;（不同病理分级的免疫细胞浸润模式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="789" y="884" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段4：数据分析与机制挖掘&#xa;&#xa;（10-16个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段3：数据分析与机制挖掘&#xa;&#xa;（10-16个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1900" y="674" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-28" value="生物信息学分析&#xa;1. 驱动基因突变与病理分级关联（Fisher精确检验）&#xa;2. 信号通路富集（GSEA/KEGG：免疫相关通路、细胞周期通路）&#xa;3. 单细胞 trajectory分析（肿瘤细胞演化轨迹）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
