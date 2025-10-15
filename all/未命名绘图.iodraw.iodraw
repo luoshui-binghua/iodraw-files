@@ -46,7 +46,7 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-14" value="数字病理定量分析&#xa;（全切片扫描+AI辅助计数：免疫细胞密度、PD-L1 TPS评分）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1101" y="724" width="258" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-15" target="t1HVQ_81Bl9Hr75zzs3f-30">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-15" target="t1HVQ_81Bl9Hr75zzs3f-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-15" value="免疫微环境特征库&#xa;（不同病理分级的免疫细胞浸润模式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
