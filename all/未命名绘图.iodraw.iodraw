@@ -65,7 +65,7 @@
           <mxGeometry x="2474" y="884" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-28" value="生物信息学分析&#xa;1. 驱动基因突变与病理分级关联（Fisher精确检验）&#xa;2. 信号通路富集（GSEA/KEGG：免疫相关通路、细胞周期通路）&#xa;3. 单细胞 trajectory分析（肿瘤细胞演化轨迹）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2429" y="1044" width="172" height="49" as="geometry" />
+          <mxGeometry x="2429" y="1044" width="351" height="76" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-29" value="分子机制报告&#xa;（关键通路：PD-1/PD-L1、PI3K-AKT等与分级的关联）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2257" y="1160" width="254" height="84" as="geometry" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-35" value="内部验证&#xa;（C-index/AUC评估，校准曲线验证）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2562" y="1160" width="248" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-36" value="外部验证&#xa;（独立验证队列n=150，来自2家合作医院）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2781" y="1294" width="246" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-1" target="t1HVQ_81Bl9Hr75zzs3f-2">
           <mxGeometry relative="1" as="geometry">
@@ -244,11 +241,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-35" target="t1HVQ_81Bl9Hr75zzs3f-36">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2686" y="1269" />
             </Array>
+            <mxPoint x="2781" y="1298.1999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
