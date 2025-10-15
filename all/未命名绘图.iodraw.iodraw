@@ -76,15 +76,6 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-31" value="统计分析报告&#xa;（新分级的独立预后价值验证）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1633" y="1160" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-32" value="阶段5：预后模型构建与验证&#xa;&#xa;（13-19个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2782" y="733" width="244" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-33" value="特征工程&#xa;（纳入变量：病理分级、免疫指标、驱动突变、临床因素）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2778" y="875" width="252" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-34" value="模型训练&#xa;（算法：随机森林+LASSO回归，5折交叉验证调参）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2776" y="1026" width="256" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-35" value="内部验证&#xa;（C-index/AUC评估，校准曲线验证）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2562" y="1160" width="248" height="84" as="geometry" />
         </mxCell>
@@ -221,13 +212,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1759" y="1135" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.82;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-34" target="t1HVQ_81Bl9Hr75zzs3f-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2815" y="1135" />
             </Array>
           </mxGeometry>
         </mxCell>
