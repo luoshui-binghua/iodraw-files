@@ -50,7 +50,7 @@
           <mxGeometry x="789" y="884" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段4：数据分析与机制挖掘&#xa;&#xa;（10-16个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2474" y="884" width="244" height="84" as="geometry" />
+          <mxGeometry x="1900" y="674" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-28" value="生物信息学分析&#xa;1. 驱动基因突变与病理分级关联（Fisher精确检验）&#xa;2. 信号通路富集（GSEA/KEGG：免疫相关通路、细胞周期通路）&#xa;3. 单细胞 trajectory分析（肿瘤细胞演化轨迹）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2429" y="1044" width="351" height="76" as="geometry" />
@@ -187,23 +187,6 @@
               <mxPoint x="850" y="1100" />
             </Array>
             <mxPoint x="1113" y="946.04" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2402" y="1135" />
-            </Array>
-            <mxPoint x="2562" y="1172.6" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.05;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2686" y="1269" />
-            </Array>
-            <mxPoint x="2686" y="1244" as="sourcePoint" />
-            <mxPoint x="2781" y="1298.1999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
