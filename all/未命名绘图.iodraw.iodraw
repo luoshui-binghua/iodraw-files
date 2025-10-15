@@ -49,12 +49,6 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-15" value="免疫微环境特征库&#xa;（不同病理分级的免疫细胞浸润模式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="789" y="884" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-19" value="测序数据质控&#xa;（FastQC过滤低质量 reads，BWA比对率≥95%）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1113" y="920" width="244" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-20" value="基因突变谱分析&#xa;（驱动基因：EGFR/KRAS/ALK等；TMB计算）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1559" y="884" width="255" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段4：数据分析与机制挖掘&#xa;&#xa;（10-16个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2474" y="884" width="244" height="84" as="geometry" />
         </mxCell>
@@ -189,19 +183,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-11" target="t1HVQ_81Bl9Hr75zzs3f-19">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="614" y="850" />
               <mxPoint x="850" y="1100" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-83" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-19" target="t1HVQ_81Bl9Hr75zzs3f-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1213" y="1001" />
-            </Array>
+            <mxPoint x="1113" y="946.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.66;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-30" target="t1HVQ_81Bl9Hr75zzs3f-35">
