@@ -32,7 +32,7 @@
           <mxGeometry x="910" y="456" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-10" value="双分级系统评估&#xa;1. IASLC 2020新分级（贴壁/腺泡/乳头状+高级别模式占比）&#xa;2. WHO 2015传统分级（对照）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="829" y="608" width="172" height="49" as="geometry" />
+          <mxGeometry x="829" y="608" width="221" height="92" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-11" value="病理评估质控&#xa;（2名高年资胸外科病理医师双盲评估，Kappa≥0.7为合格）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="490" y="724" width="247" height="101" as="geometry" />
@@ -313,24 +313,6 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-36" target="t1HVQ_81Bl9Hr75zzs3f-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="928" y="280" />
-            </Array>
-            <mxPoint x="928" y="229" as="sourcePoint" />
-            <mxPoint x="1209" y="332.48000000000025" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.11;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1616" y="280" />
-            </Array>
-            <mxPoint x="1615.9999999999995" y="255" as="sourcePoint" />
-            <mxPoint x="1454" y="323.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-7" target="t1HVQ_81Bl9Hr75zzs3f-11">
