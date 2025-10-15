@@ -32,7 +32,7 @@
           <mxGeometry x="910" y="456" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-10" value="双分级系统评估&#xa;1. IASLC 2020新分级（贴壁/腺泡/乳头状+高级别模式占比）&#xa;2. WHO 2015传统分级（对照）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="829" y="608" width="221" height="92" as="geometry" />
+          <mxGeometry x="829" y="560" width="221" height="140" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-11" value="病理评估质控&#xa;（2名高年资胸外科病理医师双盲评估，Kappa≥0.7为合格）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="490" y="724" width="247" height="101" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="799" y="733" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-13" value="免疫组化检测&#xa;（标志物：PD-L1、CD3/CD4/CD8/FOXP3、Ki-67）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="1104" y="590" width="253" height="84" as="geometry" />
+          <mxGeometry x="1104" y="570" width="253" height="104" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-14" value="数字病理定量分析&#xa;（全切片扫描+AI辅助计数：免疫细胞密度、PD-L1 TPS评分）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1101" y="724" width="258" height="101" as="geometry" />
