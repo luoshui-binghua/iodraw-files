@@ -91,9 +91,6 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-36" value="外部验证&#xa;（独立验证队列n=150，来自2家合作医院）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2781" y="1294" width="246" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-37" value="综合预后模型&#xa;（可视化工具：Nomogram图+Web计算器）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2780" y="1427" width="249" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-1" target="t1HVQ_81Bl9Hr75zzs3f-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -227,31 +224,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-32" target="t1HVQ_81Bl9Hr75zzs3f-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-33" target="t1HVQ_81Bl9Hr75zzs3f-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.82;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-34" target="t1HVQ_81Bl9Hr75zzs3f-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2815" y="1135" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-34" target="t1HVQ_81Bl9Hr75zzs3f-36">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-36" target="t1HVQ_81Bl9Hr75zzs3f-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-7" target="t1HVQ_81Bl9Hr75zzs3f-11">
