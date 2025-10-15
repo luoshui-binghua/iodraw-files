@@ -68,7 +68,7 @@
           <mxGeometry x="1495.5" y="790" width="333" height="106" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-31" value="统计分析报告&#xa;（新分级的独立预后价值验证）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1633" y="1160" width="252" height="84" as="geometry" />
+          <mxGeometry x="1532" y="1140" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-1" target="t1HVQ_81Bl9Hr75zzs3f-2">
           <mxGeometry relative="1" as="geometry">
@@ -140,13 +140,6 @@
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-14" target="t1HVQ_81Bl9Hr75zzs3f-15">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-30" target="t1HVQ_81Bl9Hr75zzs3f-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1759" y="1135" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.47;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-7" target="t1HVQ_81Bl9Hr75zzs3f-11">
           <mxGeometry relative="1" as="geometry">
