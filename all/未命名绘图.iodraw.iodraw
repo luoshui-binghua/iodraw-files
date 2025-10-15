@@ -118,12 +118,6 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-38" value="阶段6：成果转化与推广&#xa;&#xa;（16-24个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1217" y="29" width="228" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-39" value="学术成果输出&#xa;1. SCI论文发表（J Thorac Oncol/Lancet Oncol）&#xa;2. 国际会议报告（IASLC/WCLC）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="180" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-40" value="技术成果转化&#xa;1. 专利申请（病理分级辅助诊断算法）&#xa;2. 软件著作权（预后评估工具）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1284" y="180" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-41" value="临床指南制定&#xa;（联合中华医学会病理学分会，发布《新辅助免疫治疗后肺癌病理评估共识》）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="154" width="252" height="101" as="geometry" />
         </mxCell>
@@ -330,39 +324,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-38" target="t1HVQ_81Bl9Hr75zzs3f-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="928" y="129" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-38" target="t1HVQ_81Bl9Hr75zzs3f-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1362" y="129" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-38" target="t1HVQ_81Bl9Hr75zzs3f-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1616" y="129" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-39" target="t1HVQ_81Bl9Hr75zzs3f-42">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" target="t1HVQ_81Bl9Hr75zzs3f-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="928" y="280" />
             </Array>
+            <mxPoint x="928" y="229" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.57;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-40" target="t1HVQ_81Bl9Hr75zzs3f-42">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.57;entryY=0;rounded=0;" edge="1" parent="1" target="t1HVQ_81Bl9Hr75zzs3f-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1362" y="280" />
             </Array>
+            <mxPoint x="1362" y="229" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.11;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-41" target="t1HVQ_81Bl9Hr75zzs3f-42">
