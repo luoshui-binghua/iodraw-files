@@ -58,7 +58,7 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-27" target="t1HVQ_81Bl9Hr75zzs3f-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段3：数据分析与机制挖掘&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段3：数据分析与机制挖掘" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="1540" y="456" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-28" target="t1HVQ_81Bl9Hr75zzs3f-29" edge="1">
