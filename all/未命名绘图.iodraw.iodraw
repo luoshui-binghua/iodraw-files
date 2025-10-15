@@ -55,6 +55,9 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-27" target="t1HVQ_81Bl9Hr75zzs3f-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-27" target="t1HVQ_81Bl9Hr75zzs3f-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-27" value="阶段3：数据分析与机制挖掘&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1540" y="456" width="244" height="84" as="geometry" />
         </mxCell>
@@ -62,7 +65,7 @@
           <mxGeometry x="1880" y="800" width="351" height="76" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-29" value="分子机制报告&#xa;（关键通路：PD-1/PD-L1、PI3K-AKT等与分级的关联）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1828.5" y="1050" width="254" height="84" as="geometry" />
+          <mxGeometry x="1920" y="966" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-30" value="统计学分析&#xa;1. 生存分析（Kaplan-Meier+Log-rank检验，Cox回归）&#xa;2. 相关性分析（病理分级与免疫指标/TMB的Spearman相关）&#xa;3. 亚组分析（不同分期/PD-L1表达亚组的分级预后价值）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1495.5" y="790" width="333" height="106" as="geometry" />
