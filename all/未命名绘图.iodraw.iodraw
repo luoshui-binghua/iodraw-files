@@ -49,23 +49,14 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-15" value="免疫微环境特征库&#xa;（不同病理分级的免疫细胞浸润模式）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="789" y="884" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-16" value="阶段3：多维度分子检测&#xa;&#xa;（7-13个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1706" y="465" width="228" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-17" value="核酸/蛋白提取&#xa;1. FFPE组织DNA提取（Qiagen试剂盒）&#xa;2. 新鲜组织单细胞悬液制备（酶解+流式分选）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1738" y="608" width="164" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-18" value="外显子组测序&#xa;（Illumina NovaSeq 6000，测序深度≥100×）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1542" y="733" width="232" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-19" value="测序数据质控&#xa;（FastQC过滤低质量 reads，BWA比对率≥95%）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="884" width="244" height="84" as="geometry" />
+          <mxGeometry x="1113" y="920" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-20" value="基因突变谱分析&#xa;（驱动基因：EGFR/KRAS/ALK等；TMB计算）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1559" y="884" width="255" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-21" value="单细胞RNA测序&#xa;（10x Genomics Chromium，检测肿瘤/免疫细胞转录组）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1863" y="724" width="253" height="101" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-22" value="单细胞数据解析&#xa;（细胞聚类、差异基因表达、免疫细胞亚型鉴定）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1864" y="884" width="252" height="84" as="geometry" />
@@ -196,18 +187,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-16" target="t1HVQ_81Bl9Hr75zzs3f-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-17" target="t1HVQ_81Bl9Hr75zzs3f-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1658" y="699" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=1;entryY=0.15;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-18" target="t1HVQ_81Bl9Hr75zzs3f-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -215,42 +194,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-18" target="t1HVQ_81Bl9Hr75zzs3f-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1687" y="850" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-17" target="t1HVQ_81Bl9Hr75zzs3f-21">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1990" y="699" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-21" target="t1HVQ_81Bl9Hr75zzs3f-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-22" target="t1HVQ_81Bl9Hr75zzs3f-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1990" y="1001" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-17" target="t1HVQ_81Bl9Hr75zzs3f-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2295" y="699" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-24" target="t1HVQ_81Bl9Hr75zzs3f-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="t1HVQ_81Bl9Hr75zzs3f-25" target="t1HVQ_81Bl9Hr75zzs3f-26">
