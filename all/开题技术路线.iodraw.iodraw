@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) iodraw/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="Y8OS4aXbsXjwdI0lyKvN">
-    <mxGraphModel dx="1005" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="804" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-2" value="伦理审批与知情同意&#xa;（合作医院IRB审批）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;fontStyle=1;strokeColor=default;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="37" y="171" width="211" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-3" value="多中心临床队列构建&#xa;（纳入标准：IB-IIIA期可切除NSCLC，新辅助免疫治疗+手术）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;fontStyle=1;strokeColor=default;rounded=1;" parent="1" vertex="1">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-3" value="临床队列构建&#xa;（纳入标准：IB-IIIA期可切除NSCLC，新辅助免疫治疗+手术）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;fontStyle=1;strokeColor=default;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="298" y="154" width="258" height="101" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-4" value="样本筛选与质控&#xa;（排除标准：合并其他肿瘤、术前治疗史、样本质量不达标）" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;fontStyle=1;strokeColor=default;rounded=1;" parent="1" vertex="1">
