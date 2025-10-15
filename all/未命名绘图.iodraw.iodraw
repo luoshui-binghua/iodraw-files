@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-1" value="阶段1：前期准备与队列建立&#xa;&#xa;（0-6个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-1" value="阶段1：前期准备与队列建立&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-2" value="伦理审批与知情同意&#xa;（合作医院IRB审批）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-7" value="样本质量控制&#xa;（FFPE组织RNA/DNA完整性检测，合格标准：RIN≥7.0）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="474" y="590" width="259" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-8" value="阶段2：病理评估与免疫微环境检测&#xa;&#xa;（4-10个月）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="t1HVQ_81Bl9Hr75zzs3f-8" value="阶段2：病理评估与免疫微环境检测&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="914" y="314" width="244" height="84" as="geometry" />
         </mxCell>
         <mxCell id="t1HVQ_81Bl9Hr75zzs3f-9" value="病理切片制备&#xa;（FFPE组织4μm连续切片，HE染色+免疫组化切片）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
