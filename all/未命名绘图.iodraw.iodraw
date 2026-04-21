@@ -35,7 +35,7 @@
           <mxGeometry x="261" y="-638.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-53" value="切缘阴性?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="299.5" y="-540" width="118" height="118" as="geometry" />
+          <mxGeometry x="43" y="-570" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-54" value="登记3&#xa;随机分组" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="209.5" y="-349" width="124" height="66" as="geometry" />
