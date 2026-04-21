@@ -96,7 +96,7 @@
           <mxGeometry x="459" y="-485.5" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-8" value="统计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-477" width="124" height="49" as="geometry" />
+          <mxGeometry x="645" y="-478" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-9" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="y35KjrRF-C7KXBU3DFFB-1" source="gkb_nd0aw89aV_2hTZ-L-53">
           <mxGeometry relative="1" as="geometry">
@@ -168,18 +168,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="662.5" y="-486.5" as="sourcePoint" />
             <mxPoint x="662.5" y="-465.78932188134524" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y35KjrRF-C7KXBU3DFFB-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="-600" as="sourcePoint" />
-            <mxPoint x="560" y="-650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y35KjrRF-C7KXBU3DFFB-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="gkb_nd0aw89aV_2hTZ-L-52">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="-600" as="sourcePoint" />
-            <mxPoint x="560" y="-650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.995;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gkb_nd0aw89aV_2hTZ-L-81" target="gkb_nd0aw89aV_2hTZ-L-47">
