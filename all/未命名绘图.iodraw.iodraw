@@ -93,10 +93,10 @@
           <mxGeometry x="660" y="-526.5" width="107" height="66" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-7" value="主要终点&#xa;2年局部复发率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="882" y="-526" width="164" height="66" as="geometry" />
+          <mxGeometry x="510" y="-409.5" width="164" height="66" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-8" value="统计分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1097" y="-517" width="124" height="49" as="geometry" />
+          <mxGeometry x="714" y="-401" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-9" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.19;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" target="y35KjrRF-C7KXBU3DFFB-1">
           <mxGeometry relative="1" as="geometry">
