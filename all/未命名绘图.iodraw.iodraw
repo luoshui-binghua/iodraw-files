@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="-774" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-47" value="符合标准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="596" y="-1160" width="118" height="118" as="geometry" />
+          <mxGeometry x="596" y="-1120" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-48" value="登记2&#xa;签署知情同意" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="490" y="-969" width="156" height="66" as="geometry" />
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-1160" width="330" height="460" as="geometry" />
+          <mxGeometry x="250" y="-976.5" width="330" height="460" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="-670" width="810" height="290" as="geometry" />
