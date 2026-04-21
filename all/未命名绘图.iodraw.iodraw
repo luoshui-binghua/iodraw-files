@@ -11,7 +11,7 @@
           <mxGeometry x="1384" y="20" width="1146" height="310" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-3" value="第二阶段：再评估与入组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="400" width="632" height="281" as="geometry" />
+          <mxGeometry x="30" y="370" width="632" height="281" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-4" value="第一阶段：筛选与治疗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="185" width="631" height="136" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry x="454" y="220" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-8" value="治疗后再评估&#xa;术后4-6周" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="726" y="220" width="156" height="66" as="geometry" />
+          <mxGeometry x="55" y="480" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-9" value="符合入组标准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="932" y="178" width="150" height="150" as="geometry" />
+          <mxGeometry x="261" y="438" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-10" value="第二阶段登记&#xa;签署知情同意" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1153" y="167" width="156" height="66" as="geometry" />
+          <mxGeometry x="482" y="427" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-11" value="排除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="283" width="92" height="49" as="geometry" />
+          <mxGeometry x="514" y="543" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-12" value="手术准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1409" y="175" width="124" height="49" as="geometry" />
@@ -96,14 +96,14 @@
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-28" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.26;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="gkb_nd0aw89aV_2hTZ-L-9" target="gkb_nd0aw89aV_2hTZ-L-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1118" y="200" />
+              <mxPoint x="447" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=-0.01;entryY=0.49;rounded=0;" edge="1" parent="1" source="gkb_nd0aw89aV_2hTZ-L-9" target="gkb_nd0aw89aV_2hTZ-L-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1118" y="307" />
+              <mxPoint x="447" y="567" />
             </Array>
           </mxGeometry>
         </mxCell>
