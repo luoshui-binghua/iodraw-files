@@ -17,22 +17,22 @@
           <mxGeometry x="20" y="-774" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-47" value="符合标准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="351" y="-1142.5" width="118" height="118" as="geometry" />
+          <mxGeometry x="596" y="-1160" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-48" value="登记2&#xa;签署知情同意" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="245" y="-951.5" width="156" height="66" as="geometry" />
+          <mxGeometry x="490" y="-969" width="156" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-49" value="排除" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="451" y="-942.5" width="92" height="49" as="geometry" />
+          <mxGeometry x="696" y="-960" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-50" value="手术准备" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="261" y="-835.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="506" y="-853" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-51" value="术中探查" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="261" y="-737.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="506" y="-755" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-52" value="冰冻病理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="261" y="-638.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="506" y="-656" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-53" value="切缘阴性?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="10" y="-550" width="118" height="118" as="geometry" />
@@ -55,14 +55,14 @@
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-66" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-47" target="gkb_nd0aw89aV_2hTZ-L-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="323" y="-987.5" />
+              <mxPoint x="568" y="-1005" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-67" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-47" target="gkb_nd0aw89aV_2hTZ-L-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="497" y="-987.5" />
+              <mxPoint x="742" y="-1005" />
             </Array>
           </mxGeometry>
         </mxCell>
