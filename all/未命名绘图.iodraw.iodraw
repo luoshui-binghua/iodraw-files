@@ -37,30 +37,6 @@
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-53" value="切缘阴性?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="43" y="-570" width="118" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-54" value="登记3&#xa;随机分组" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="209.5" y="-349" width="124" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-55" value="扩大切除" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="383.5" y="-340" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-56" value="袖式组&#xa;n=206" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="138.5" y="-233" width="108" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-57" value="肺叶组&#xa;n=206" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="296.5" y="-233" width="108" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-58" value="术后管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="209.5" y="-116" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-59" value="随访至24个月" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="193.5" y="-18" width="157" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-60" value="终点评估" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="209.5" y="81" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-61" value="统计分析" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="209.5" y="179" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-43" target="gkb_nd0aw89aV_2hTZ-L-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -101,63 +77,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-51" target="gkb_nd0aw89aV_2hTZ-L-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-72" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-53" target="gkb_nd0aw89aV_2hTZ-L-54" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="271.5" y="-385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-73" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-53" target="gkb_nd0aw89aV_2hTZ-L-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="445.5" y="-385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-54" target="gkb_nd0aw89aV_2hTZ-L-56" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192.5" y="-258" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-54" target="gkb_nd0aw89aV_2hTZ-L-57" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350.5" y="-258" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.19;entryY=-0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-56" target="gkb_nd0aw89aV_2hTZ-L-58" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="192.5" y="-141" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-77" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.81;entryY=-0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-57" target="gkb_nd0aw89aV_2hTZ-L-58" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="350.5" y="-141" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-78" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-58" target="gkb_nd0aw89aV_2hTZ-L-59" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-59" target="gkb_nd0aw89aV_2hTZ-L-60" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-80" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-60" target="gkb_nd0aw89aV_2hTZ-L-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
