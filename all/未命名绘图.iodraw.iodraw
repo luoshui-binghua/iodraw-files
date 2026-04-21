@@ -81,10 +81,10 @@
           <mxGeometry x="203" y="-401" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-3" value="袖式切除&#xa;n=206" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377" y="-584" width="124" height="66" as="geometry" />
+          <mxGeometry x="352" y="-584" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-4" value="肺叶切除&#xa;n=206" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="377" y="-468" width="124" height="66" as="geometry" />
+          <mxGeometry x="352" y="-468" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="y35KjrRF-C7KXBU3DFFB-5" value="术后管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="520" y="-518" width="124" height="49" as="geometry" />
