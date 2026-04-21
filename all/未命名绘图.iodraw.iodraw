@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-43" value="筛选患者&#xa;中央型NSCLC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25" y="-1160" width="153" height="66" as="geometry" />
+          <mxGeometry x="36" y="-1140" width="153" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-44" value="登记1&#xa;基线评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1044" width="124" height="66" as="geometry" />
+          <mxGeometry x="51" y="-1024" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-45" value="新辅助治疗&#xa;2-4周期&#xa;0-3月" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="32" y="-928" width="140" height="84" as="geometry" />
+          <mxGeometry x="43" y="-908" width="140" height="84" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-46" value="再评估&#xa;CT/PET/支气管镜" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9" y="-794" width="186" height="66" as="geometry" />
+          <mxGeometry x="20" y="-774" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-47" value="符合标准?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="248" y="-678" width="118" height="118" as="geometry" />
