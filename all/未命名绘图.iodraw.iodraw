@@ -29,7 +29,7 @@
           <mxGeometry x="506" y="-853" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-51" value="术中探查" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="506" y="-755" width="124" height="49" as="geometry" />
+          <mxGeometry x="660" y="-853" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-52" value="冰冻病理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="506" y="-656" width="124" height="49" as="geometry" />
@@ -67,16 +67,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-48" target="gkb_nd0aw89aV_2hTZ-L-50" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-50" target="gkb_nd0aw89aV_2hTZ-L-51" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gkb_nd0aw89aV_2hTZ-L-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="gkb_nd0aw89aV_2hTZ-L-51" target="gkb_nd0aw89aV_2hTZ-L-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
