@@ -11,7 +11,7 @@
           <mxGeometry x="1384" y="20" width="1146" height="310" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-3" value="第二阶段：再评估与入组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="701" y="110" width="632" height="281" as="geometry" />
+          <mxGeometry x="90" y="400" width="632" height="281" as="geometry" />
         </mxCell>
         <mxCell id="gkb_nd0aw89aV_2hTZ-L-4" value="第一阶段：筛选与治疗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="185" width="631" height="136" as="geometry" />
